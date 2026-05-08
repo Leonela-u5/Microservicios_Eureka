@@ -102,15 +102,5 @@ Se comprobó que:
 * Antigravity Skills
 * Visual Studio Code
 
----
 
-# Objetivo Académico
-
-Este proyecto fue desarrollado con fines académicos para analizar:
-
-* Generación automática de microservicios mediante Skills
-* Arquitectura backend moderna
-* Integración con Eureka Server
-* Desarrollo de APIs REST
-* Arquitectura desacoplada
 * Automatización del desarrollo mediante inteligencia artificial
