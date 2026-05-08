@@ -49,15 +49,3 @@ Se verificó que:
 * REST API
 * Visual Studio Code
 
----
-
-# Objetivo Académico
-
-Este proyecto fue desarrollado con fines académicos para reforzar conocimientos sobre:
-
-* Arquitectura de microservicios
-* Descubrimiento de servicios con Eureka
-* Desarrollo manual de APIs REST
-* Arquitectura por capas
-* Integración de servicios distribuidos
-
